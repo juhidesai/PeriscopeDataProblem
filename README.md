@@ -23,6 +23,7 @@ The code has it's own test cases which can be run is the same way as the code.
 ```
 python roomba_test.py
 ```
+The tests modify input.txt to check for different cases.  
 
 **Approach**  
 
